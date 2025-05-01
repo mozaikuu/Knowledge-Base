@@ -1,0 +1,11 @@
+wikidata
+spacy
+torch
+transformers
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+pyvis
+SPARQLWrapper

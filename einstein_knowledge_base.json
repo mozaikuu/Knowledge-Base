@@ -1,0 +1,1409 @@
+{
+  "name": "Albert Einstein",
+  "description": "German-born theoretical physicist (1879–1955)",
+  "claims": {
+    "CONOR.SI ID": [
+      "7912035"
+    ],
+    "languages spoken, written or signed": [
+      "English",
+      "German"
+    ],
+    "geographic affiliation of a Swiss national": [
+      "Zurich"
+    ],
+    "place of death": [
+      "Princeton"
+    ],
+    "place of birth": [
+      "Ulm"
+    ],
+    "father": [
+      "Hermann Einstein"
+    ],
+    "image": [
+      "Albert Einstein Head.jpg",
+      "Einstein 1921 by F Schmutzer - restoration.jpg"
+    ],
+    "educated at": [
+      "ETH Zurich",
+      "Luitpold-Gymnasium",
+      "old Kantonsschule (Albert Einstein House)",
+      "University of Zurich"
+    ],
+    "child": [
+      "Hans Albert Einstein",
+      "Eduard Einstein",
+      "Lieserl (Einstein)"
+    ],
+    "signature": [
+      "Albert Einstein signature 1934.svg"
+    ],
+    "native language": [
+      "German"
+    ],
+    "award received": [
+      "Barnard Medal for Meritorious Service to Science",
+      "Nobel Prize in Physics",
+      "Gold Medal of the Royal Astronomical Society",
+      "Prix Jules Janssen",
+      "Matteucci Medal",
+      "Max Planck Medal",
+      "Franklin Medal",
+      "Copley Medal",
+      "Pour le Mérite for Sciences and Arts order",
+      "Josiah Willard Gibbs Lectureship",
+      "Honorary doctorate from the University of Geneva",
+      "honorary doctor of the Hebrew University of Jerusalem",
+      "honorary doctorate from Princeton University",
+      "honorary doctor of the University of Madrid Complutense",
+      "Foreign Member of the Royal Society",
+      "Member of the National Academy of Sciences of the United States",
+      "Great Immigrants Award",
+      "Pour le Mérite",
+      "Honorary Fellow of the Royal Society Te Apārangi",
+      "doctor honoris causa from the University of Paris",
+      "New Jersey Hall of Fame"
+    ],
+    "VIAF cluster ID": [
+      "75121530"
+    ],
+    "occupation": [
+      "theoretical physicist",
+      "philosopher of science",
+      "inventor",
+      "science writer",
+      "pedagogue",
+      "university teacher",
+      "physicist",
+      "philosopher",
+      "writer",
+      "scientist",
+      "mathematician",
+      "patent examiner",
+      "professor",
+      "pacifist"
+    ],
+    "IdRef ID": [
+      "026849186"
+    ],
+    "Bibliothèque nationale de France ID": [
+      "119016075"
+    ],
+    "Commons category": [
+      "Albert Einstein"
+    ],
+    "Library of Congress authority ID": [
+      "n79022889"
+    ],
+    "member of": [
+      "Royal Society",
+      "Royal Prussian Academy of Sciences",
+      "German Academy of Sciences Leopoldina",
+      "Lincean Academy",
+      "American Philosophical Society",
+      "Bavarian Academy of Sciences and Humanities",
+      "Göttingen Academy of Sciences",
+      "Academy of Sciences of the USSR",
+      "French Academy of Sciences",
+      "Royal Swedish Academy of Sciences",
+      "Royal Netherlands Academy of Arts and Sciences",
+      "American Academy of Arts and Sciences",
+      "Russian Academy of Sciences (1917–1925)",
+      "Indian National Science Academy",
+      "Accademia Nazionale delle Scienze detta dei XL",
+      "Brazilian Academy of Sciences",
+      "National Academy of Sciences",
+      "National Academy of Sciences",
+      "Centre international de synthèse"
+    ],
+    "MusicBrainz artist ID": [
+      "c98c325e-7277-46e8-8b44-e3517f3e041a"
+    ],
+    "date of birth": [
+      "{'time': '+1879-03-14T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}"
+    ],
+    "date of death": [
+      "{'time': '+1955-04-18T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}"
+    ],
+    "NDL Authority ID": [
+      "00438728"
+    ],
+    "Mathematics Genealogy Project ID": [
+      "53269"
+    ],
+    "archives at": [
+      "Swiss Literary Archives",
+      "Albert Einstein Archives",
+      "Louis Round Wilson Library",
+      "ETH Zurich University Archives"
+    ],
+    "topic's main category": [
+      "Category:Albert Einstein"
+    ],
+    "instance of": [
+      "human"
+    ],
+    "NL CR AUT ID": [
+      "jn19990002019"
+    ],
+    "Libraries Australia ID": [
+      "36582360"
+    ],
+    "SELIBR ID": [
+      "184709"
+    ],
+    "Union List of Artist Names ID": [
+      "500240971"
+    ],
+    "Portuguese National Library author ID": [
+      "26339"
+    ],
+    "Nationale Thesaurus voor Auteursnamen ID": [
+      "068350767"
+    ],
+    "Freebase ID": [
+      "/m/0jcx"
+    ],
+    "doctoral advisor": [
+      "Alfred Kleiner",
+      "Heinrich Burkhardt",
+      "Heinrich Friedrich Weber"
+    ],
+    "student of": [
+      "Heinrich Friedrich Weber",
+      "Hermann Minkowski"
+    ],
+    "Vatican Library ID (former scheme)": [
+      "ADV10181679"
+    ],
+    "SBN author ID": [
+      "CFIV035853"
+    ],
+    "NORAF ID": [
+      "90053072"
+    ],
+    "National Library of Spain ID": [
+      "XX834035"
+    ],
+    "NUKAT ID": [
+      "n95300836"
+    ],
+    "given name": [
+      "Q577011"
+    ],
+    "CANTIC ID (former scheme)": [
+      "a10077078"
+    ],
+    "Curlie ID": [
+      "Science/Physics/History/People/Einstein,_Albert/",
+      "World/Français/Sciences/Physique/Histoire/Personnages_historiques/Einstein,_Albert/",
+      "World/Deutsch/Wissenschaft/Naturwissenschaften/Physik/Personen/Einstein,_Albert/",
+      "World/Español/Ciencia_y_tecnología/Física/Historia/Biografías/Einstein,_Albert/"
+    ],
+    "National Library of Latvia ID": [
+      "000027126"
+    ],
+    "NSK ID": [
+      "000012537"
+    ],
+    "described by source": [
+      "Larousse Encyclopedia online",
+      "Great Soviet Encyclopedia (1969–1978)",
+      "BEIC Digital Library",
+      "Obálky knih",
+      "1922 Encyclopædia Britannica",
+      "Medvik",
+      "Digitized residence applications of the Prague Police Directorate  (conscription) 1850–1914",
+      "Historical Dictionary of Switzerland",
+      "Collier's New Encyclopedia, 1921",
+      "Great Soviet Encyclopedia (1950–1958)",
+      "Physicists: Biographical Dictionary",
+      "Astronomers: A Biographical Reference"
+    ],
+    "Open Plaques subject ID": [
+      "3242"
+    ],
+    "Commons Creator page": [
+      "Albert Einstein"
+    ],
+    "MacTutor biography ID": [
+      "Einstein"
+    ],
+    "IMDb ID": [
+      "nm0251868"
+    ],
+    "employer": [
+      "Swiss Federal Institute of Intellectual Property",
+      "Charles University",
+      "University of Zurich",
+      "German University in Prague",
+      "ETH Zurich",
+      "Kaiser Wilhelm Society",
+      "Princeton University",
+      "Leiden University",
+      "University of Bern",
+      "Deutsche Physikalische Gesellschaft",
+      "Humboldt University of Berlin",
+      "Royal Prussian Academy of Sciences",
+      "Institute for Advanced Study",
+      "Leiden University",
+      "Bern",
+      "University of California, Berkeley"
+    ],
+    "Munzinger person ID": [
+      "00000000666"
+    ],
+    "Digitale Bibliotheek voor de Nederlandse Letteren author ID": [
+      "eins001"
+    ],
+    "British Museum person or institution ID": [
+      "9689"
+    ],
+    "GTAA ID": [
+      "96461"
+    ],
+    "Notable Names Database ID": [
+      "302/000022236"
+    ],
+    "plaque image": [
+      "Einstein deska.jpg",
+      "8839 - Milano - Via Bigli - Palazzo Olivazzi - Lapide Albert Einstein - Foto Giovanni Dall'Orto - 14-Apr-2007.jpg",
+      "Home Albert Einstein 1895 Memorial.jpg",
+      "Einstein-barrakka.JPG",
+      "Albert Einstein - Andräschule Salzburg.PNG",
+      "05w Denkmal Albert Einstein.jpg",
+      "Einstein Plaque.jpg",
+      "Archenhold-Sternwarte, 642-748.jpg"
+    ],
+    "work location": [
+      "Bern",
+      "Prague",
+      "Zurich",
+      "Berlin",
+      "Caputh",
+      "Princeton",
+      "Zurich"
+    ],
+    "National Portrait Gallery (London) person ID": [
+      "mp73025"
+    ],
+    "genealogics.org person ID": [
+      "I00482340"
+    ],
+    "Project Gutenberg author ID": [
+      "1630"
+    ],
+    "described at URL": [
+      "http://www.einsteinsommerhaus.de/index.php?id=539&no_cache=1",
+      "https://www.ige.ch/de/ueber-uns/einstein.html",
+      "http://www.digiporta.net/index.php?id=553550365",
+      "http://www.digiporta.net/index.php?id=568612883",
+      "http://www.digiporta.net/index.php?id=707892219"
+    ],
+    "residence": [
+      "Einsteinhaus Caputh",
+      "Einsteinhaus",
+      "Munich",
+      "Princeton",
+      "Smíchov",
+      "Schaffhausen"
+    ],
+    "GND ID": [
+      "118529579"
+    ],
+    "Erdős number": [
+      "{'amount': '+2', 'unit': '1'}"
+    ],
+    "Discogs artist ID": [
+      "430935"
+    ],
+    "family name": [
+      "Einstein"
+    ],
+    "CALIS ID": [
+      "n2004370668"
+    ],
+    "NCL ID": [
+      "369710"
+    ],
+    "NLC authorities": [
+      "000124193"
+    ],
+    "Find a Grave memorial ID": [
+      "314"
+    ],
+    "Internet Speculative Fiction Database author ID": [
+      "99141"
+    ],
+    "Open Library ID": [
+      "OL3175986A"
+    ],
+    "student": [
+      "Ernst G. Straus"
+    ],
+    "FAST ID": [
+      "32023",
+      "460651"
+    ],
+    "BiblioNet author ID": [
+      "157"
+    ],
+    "zbMATH author ID": [
+      "einstein.albert"
+    ],
+    "NLA Trove people ID": [
+      "382451"
+    ],
+    "Commons gallery": [
+      "Albert Einstein"
+    ],
+    "pronunciation audio": [
+      "De-Albert Einstein-Pronuciation.ogg",
+      "LL-Q34239 (kok)-Fredericknoronha-Albert Einstein.wav"
+    ],
+    "ethnic group": [
+      "Jewish people"
+    ],
+    "CTHS person ID": [
+      "117243"
+    ],
+    "place of burial": [
+      "National Museum of Health and Medicine"
+    ],
+    "Encyclopædia Britannica Online ID": [
+      "biography/Albert-Einstein"
+    ],
+    "Geni.com profile ID": [
+      "4481345450320047133"
+    ],
+    "Filmportal ID": [
+      "4533e35f16964c939b82033bb6259e32"
+    ],
+    "CERL Thesaurus ID": [
+      "cnp01496856"
+    ],
+    "National Library of Romania ID": [
+      "000074139"
+    ],
+    "INSPIRE-HEP author ID": [
+      "A.Einstein.1"
+    ],
+    "PORT person ID": [
+      "184328"
+    ],
+    "LibriVox author ID": [
+      "1035"
+    ],
+    "permanent duplicated item": [
+      "Albert Einstein",
+      "Q25696257"
+    ],
+    "Gran Enciclopèdia Catalana ID (former scheme)": [
+      "0023623"
+    ],
+    "InPhO ID": [
+      "thinker/2958"
+    ],
+    "New York Times topic ID": [
+      "person/albert-einstein"
+    ],
+    "spoken text audio": [
+      "Hy-Ալբերտ Այնշտայն (Albert Einstein).ogg",
+      "De-Albert Einstein.ogg"
+    ],
+    "nominated for": [
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics",
+      "Nobel Prize in Physics"
+    ],
+    "National Library of Greece ID": [
+      "76370"
+    ],
+    "sibling": [
+      "Maja Einstein"
+    ],
+    "SNAC ARK ID": [
+      "w63c6p77",
+      "w69k499r"
+    ],
+    "field of work": [
+      "theoretical physics"
+    ],
+    "KNAW past member ID": [
+      "PE00000116"
+    ],
+    "Quora topic ID": [
+      "Albert-Einstein-physicist"
+    ],
+    "National Library of Israel ID (old)": [
+      "000042773"
+    ],
+    "notable work": [
+      "special relativity",
+      "general relativity",
+      "photoelectric effect",
+      "theory of relativity",
+      "theory of Brownian Motion",
+      "mass–energy equivalence",
+      "Planck constant",
+      "Einstein field equations",
+      "quantum mechanics",
+      "unified field theory",
+      "stimulated emission"
+    ],
+    "openMLOL author ID": [
+      "22128"
+    ],
+    "Academic Tree ID": [
+      "3611"
+    ],
+    "cause of death": [
+      "abdominal aortic aneurysm"
+    ],
+    "Bridgeman artist ID": [
+      "41865"
+    ],
+    "SHARE Catalogue author ID": [
+      "690"
+    ],
+    "Nobel Prize People Nomination ID": [
+      "2728"
+    ],
+    "Leopoldina member ID (superseded)": [
+      "3232"
+    ],
+    "NE.se ID": [
+      "albert-einstein"
+    ],
+    "Scopus author ID": [
+      "22988279600"
+    ],
+    "JewAge person ID": [
+      "P0520433729"
+    ],
+    "FamilySearch person ID": [
+      "LZNC-TDG"
+    ],
+    "WeRelate person ID": [
+      "Albert_Einstein_(1)"
+    ],
+    "Familypedia person ID": [
+      "Albert_Einstein_(1879-1955)"
+    ],
+    "Dialnet author ID": [
+      "278727"
+    ],
+    "Encyclopedia of Australian Science ID": [
+      "P000386b"
+    ],
+    "PM20 folder ID": [
+      "pe/004590"
+    ],
+    "Science Museum people ID": [
+      "cp37054"
+    ],
+    "Babelio author ID": [
+      "2827"
+    ],
+    "Google Doodle": [
+      "albert-einsteins-124th-birthday"
+    ],
+    "UK National Archives ID": [
+      "F51776"
+    ],
+    "Cultureel Woordenboek ID": [
+      "natuurkunde-scheikunde-en-sterrenkunde/albert-einstein"
+    ],
+    "Christie's creator ID": [
+      "54914"
+    ],
+    "Les Archives du spectacle person ID": [
+      "145134"
+    ],
+    "RA Collections ID": [
+      "22021"
+    ],
+    "Google Scholar author ID": [
+      "qc6CJjYAAAAJ"
+    ],
+    "Atomic Heritage Foundation ID": [
+      "albert-einstein"
+    ],
+    "Encyclopædia Universalis ID": [
+      "albert-einstein"
+    ],
+    "Online Books Page author ID": [
+      "Einstein, Albert, 1879-1955"
+    ],
+    "audio recording of the subject's spoken voice": [
+      "03 ALBERT EINSTEIN.ogg"
+    ],
+    "Great Russian Encyclopedia Online ID (old version)": [
+      "4940471"
+    ],
+    "U.S. National Archives Identifier": [
+      "10582637"
+    ],
+    "Great Aragonese Encyclopedia ID": [
+      "4887"
+    ],
+    "Runeberg author ID": [
+      "einstalb"
+    ],
+    "Amazon author ID": [
+      "B000AP7JOU"
+    ],
+    "academic degree": [
+      "Doctor of Philosophy in Physics"
+    ],
+    "influenced by": [
+      "Fyodor Dostoyevsky",
+      "Hermann Minkowski",
+      "Benedictus de Spinoza",
+      "Mahatma Gandhi",
+      "Arthur Schopenhauer",
+      "Hendrik Lorentz",
+      "George Bernard Shaw",
+      "Isaac Newton",
+      "Riazuddin",
+      "David Hume",
+      "Thomas Young",
+      "Bernhard Riemann",
+      "Moritz Schlick",
+      "James Clerk Maxwell",
+      "Paul Valéry",
+      "Karl Pearson",
+      "Henry George",
+      "Ernst Mach"
+    ],
+    "American National Biography ID": [
+      "1300477"
+    ],
+    "on focus list of Wikimedia project": [
+      "Wikipedia:List of articles all languages should have",
+      "WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits",
+      "Wikipedia:Vital articles/Level/4"
+    ],
+    "Flanders Arts Institute person ID": [
+      "1916687"
+    ],
+    "Dharma Drum Institute of Liberal Arts person ID": [
+      "A028454"
+    ],
+    "Wikimedia outline": [
+      "outline of Albert Einstein"
+    ],
+    "Who's Who UK ID": [
+      "U236915"
+    ],
+    "MR Author ID": [
+      "62280"
+    ],
+    "Brockhaus Enzyklopädie online ID": [
+      "einstein-albert"
+    ],
+    "Entomologists of the World ID": [
+      "48276"
+    ],
+    "ČSFD person ID": [
+      "52943"
+    ],
+    "NACSIS-CAT author ID": [
+      "DA00708434"
+    ],
+    "Unz Review author ID": [
+      "EinsteinAlbert"
+    ],
+    "BIU Santé person ID": [
+      "5923"
+    ],
+    "Encyclopaedia Herder person ID": [
+      "Einstein,_Albert"
+    ],
+    "religion or worldview": [
+      "atheism",
+      "agnosticism",
+      "Judaism",
+      "Pantheism"
+    ],
+    "University of Barcelona authority ID (former scheme)": [
+      "a1279550"
+    ],
+    "Angelicum ID": [
+      "86877"
+    ],
+    "Libris-URI": [
+      "fcrtts5z33mrjqc"
+    ],
+    "Arnet Miner author ID": [
+      "53f5b414dabfae472ef80501"
+    ],
+    "assessment": [
+      "intelligence test"
+    ],
+    "Regensburg Classification": [
+      "BF 5620"
+    ],
+    "Goodreads author ID": [
+      "9810"
+    ],
+    "Store norske leksikon (Great Norwegian Encyclopedia) ID": [
+      "Albert_Einstein"
+    ],
+    "Muziekweb performer ID": [
+      "M00000061906"
+    ],
+    "sex or gender": [
+      "male"
+    ],
+    "Bitraga author ID": [
+      "4450"
+    ],
+    "present in work": [
+      "Marie Curie: The Courage of Knowledge"
+    ],
+    "Biographie nationale de Belgique ID": [
+      "albert-einstein"
+    ],
+    "professorship": [
+      "full professor",
+      "academician"
+    ],
+    "BDELIS ID": [
+      "80919"
+    ],
+    "Comic Vine ID": [
+      "4005-49115"
+    ],
+    "Giant Bomb ID": [
+      "3005-791"
+    ],
+    "archINFORM person/group ID": [
+      "56488"
+    ],
+    "Physics History Network ID": [
+      "11507030"
+    ],
+    "Klexikon article ID": [
+      "Albert_Einstein"
+    ],
+    "Brilliant Wiki ID": [
+      "albert-einstein"
+    ],
+    "member of political party": [
+      "German Democratic Party"
+    ],
+    "MutualArt artist ID": [
+      "65B24EFADE9787FD"
+    ],
+    "participant in": [
+      "1st Solvay Conference on Physics",
+      "5th Solvay Conference on Physics"
+    ],
+    "WordLift URL": [
+      "http://data.thenextweb.com/tnw/entity/albert_einstein"
+    ],
+    "Swiss National Sound Archives ID": [
+      "68115.011"
+    ],
+    "Pontificia Università della Santa Croce ID": [
+      "25090"
+    ],
+    "abART person ID": [
+      "16734"
+    ],
+    "Trading Card Database person ID": [
+      "66492"
+    ],
+    "Rupa Publications author ID": [
+      "albert-einstein"
+    ],
+    "Penguin India author ID": [
+      "albert-einstein"
+    ],
+    "writing language": [
+      "English",
+      "German"
+    ],
+    "Poincaré Papers person ID": [
+      "15296"
+    ],
+    "mother": [
+      "Pauline Koch"
+    ],
+    "National Library of Russia ID": [
+      "770128355"
+    ],
+    "manner of death": [
+      "natural causes"
+    ],
+    "Rotten Tomatoes ID": [
+      "celebrity/albert_einstein"
+    ],
+    "Kinopoisk person ID": [
+      "231298"
+    ],
+    "Filmweb.pl person ID": [
+      "308021"
+    ],
+    "AlloCiné person ID": [
+      "36179"
+    ],
+    "Open Media Database person ID": [
+      "243732"
+    ],
+    "Prisma ID": [
+      "10287261"
+    ],
+    "TV Guide person ID (former scheme)": [
+      "218603"
+    ],
+    "TV.com ID": [
+      "people/albert-einstein"
+    ],
+    "TMDB person ID": [
+      "1317625"
+    ],
+    "BFI Films, TV and people ID": [
+      "4ce2bb404fc06"
+    ],
+    "Letterboxd actor ID": [
+      "albert-einstein"
+    ],
+    "Douban movie celebrity ID": [
+      "1032566"
+    ],
+    "Douban author ID": [
+      "4559238"
+    ],
+    "American Film Institute person ID": [
+      "9130"
+    ],
+    "FilmTv.it person ID": [
+      "184106"
+    ],
+    "Swedish Film Database person ID": [
+      "404958"
+    ],
+    "Aozora Bunko author ID": [
+      "1428"
+    ],
+    "Wolfram Language entity code": [
+      "Entity[\"Person\", \"AlbertEinstein::6tb7g\"]"
+    ],
+    "relative": [
+      "Lina Einstein",
+      "Elsa Einstein"
+    ],
+    "LONSEA ID": [
+      "2504"
+    ],
+    "National Academy of Sciences member ID": [
+      "20001817"
+    ],
+    "National Library of Korea ID": [
+      "KAC200103196"
+    ],
+    "name in native language": [
+      "{'text': 'Albert Einstein', 'language': 'de'}"
+    ],
+    "HDS ID": [
+      "028814"
+    ],
+    "LibraryThing author ID": [
+      "einsteinalbert"
+    ],
+    "Semion author ID (archived)": [
+      "2975999"
+    ],
+    "Classiques des sciences sociales ID": [
+      "classiques/einstein_albert/einstein_albert"
+    ],
+    "ScienceOpen author ID": [
+      "712a47ec-8348-4530-88cc-ce7fca822027"
+    ],
+    "RationalWiki ID": [
+      "Albert_Einstein",
+      "Albert Einstein"
+    ],
+    "Deutsche Biographie (GND) ID": [
+      "118529579"
+    ],
+    "Carnegie Hall agent ID": [
+      "58992"
+    ],
+    "Treccani's Dizionario di Filosofia ID": [
+      "albert-einstein",
+      "albert-einstein_res-fdb8f22c-a041-11e1-9b2f-d5ce3506d72e"
+    ],
+    "Nobel Laureate API ID": [
+      "26"
+    ],
+    "NicoNicoPedia ID": [
+      "アルバート・アインシュタイン"
+    ],
+    "Treccani ID": [
+      "albert-einstein"
+    ],
+    "Treccani's Enciclopedia Italiana ID": [
+      "albert-einstein",
+      "albert-einstein_res-b649b13f-87e7-11dc-8e9d-0016357eee51"
+    ],
+    "CoBiS author ID": [
+      "95a5yja38danygu695b5yc1k6mw3acr"
+    ],
+    "CineMagia person ID": [
+      "441757"
+    ],
+    "BAnQ authority ID": [
+      "0000007639"
+    ],
+    "DBC author ID": [
+      "87097968275423"
+    ],
+    "National Library of Chile ID": [
+      "000007200"
+    ],
+    "ELNET ID": [
+      "a11159522",
+      "a11206068"
+    ],
+    "National Library of Brazil ID": [
+      "000584933"
+    ],
+    "Canadiana Name Authority ID": [
+      "ncf10161360"
+    ],
+    "RERO ID (legacy)": [
+      "02-A003212458"
+    ],
+    "National Library of Poland MMS ID": [
+      "9810646540205606"
+    ],
+    "J9U ID": [
+      "987007260607605171"
+    ],
+    "Canadiana Authorities ID (former scheme)": [
+      "0053C3375"
+    ],
+    "NLP ID (old)": [
+      "a0000001178767"
+    ],
+    "CCAB ID": [
+      "000034649"
+    ],
+    "topic's main template": [
+      "Template:Einstein"
+    ],
+    "EGAXA ID": [
+      "vtls000837931"
+    ],
+    "Alexander Turnbull Library ID": [
+      "120272"
+    ],
+    "LiederNet author ID": [
+      "28026"
+    ],
+    "National Library of Lithuania ID": [
+      "LNB:V*13679;=BM"
+    ],
+    "Fandom article ID": [
+      "cardguide:Albert_Einstein",
+      "disney:Albert_Einstein"
+    ],
+    "RISM ID": [
+      "people/41024053"
+    ],
+    "position held": [
+      "professor"
+    ],
+    "KBpedia ID": [
+      "AlbertEinstein"
+    ],
+    "Vatican Library VcBA ID": [
+      "495/91752"
+    ],
+    "Facebook username": [
+      "AlbertEinstein"
+    ],
+    "Archive Site Trinity College Cambridge ID": [
+      "einstein-albert-1879-1955-physicist"
+    ],
+    "nLab ID": [
+      "Albert Einstein"
+    ],
+    "Alvin ID": [
+      "alvin-person:12189"
+    ],
+    "Slovak National Library (VIAF) ID": [
+      "vtls005532100"
+    ],
+    "Interlingual Index ID": [
+      "i95022"
+    ],
+    "GeneaStar person ID": [
+      "einsteina"
+    ],
+    "Roglo person ID": [
+      "p=albert;n=einstein"
+    ],
+    "Encyclopedia of Modern Ukraine ID": [
+      "42829"
+    ],
+    "Unione Romana Biblioteche Scientifiche ID": [
+      "45533",
+      "88532"
+    ],
+    "Diamond Catalog ID for persons and organisations": [
+      "26519"
+    ],
+    "Salzburgwiki ID": [
+      "18467"
+    ],
+    "CONOR.BG ID": [
+      "6024037"
+    ],
+    "CONOR.SR ID": [
+      "487527"
+    ],
+    "Swedish National Library Arken ID": [
+      "Einstein,-Albert"
+    ],
+    "Proleksis enciklopedija ID": [
+      "56686"
+    ],
+    "ZOBODAT person ID": [
+      "19535"
+    ],
+    "Museo Galileo authority ID": [
+      "189487"
+    ],
+    "facial hair": [
+      "walrus moustache"
+    ],
+    "De Agostini ID": [
+      "Einstein,+Albert"
+    ],
+    "BHCL UUID": [
+      "a2e7439f-8156-46d8-b580-28659c42d6aa"
+    ],
+    "Jewish Encyclopedia ID (Russian)": [
+      "15027"
+    ],
+    "LittleSis people ID": [
+      "47850"
+    ],
+    "Vienna History Wiki ID": [
+      "11782"
+    ],
+    "WordNet 3.1 Synset ID": [
+      "10974490-n"
+    ],
+    "BeWeb person ID": [
+      "3852"
+    ],
+    "Biographical Dictionary of the Czech Lands ID": [
+      "46208"
+    ],
+    "Namuwiki ID": [
+      "알베르트 아인슈타인"
+    ],
+    "Biblioteca Franco Serantini ID": [
+      "5803"
+    ],
+    "Cyprus University of Technology ID": [
+      "87094"
+    ],
+    "Archives at Yale agent ID": [
+      "people/75109"
+    ],
+    "Cyprus Bibliography ID": [
+      "3914"
+    ],
+    "GEPRIS Historisch person ID": [
+      "5140127"
+    ],
+    "Portal da Literatura ID": [
+      "1986"
+    ],
+    "Evene ID": [
+      "albert-einstein-307"
+    ],
+    "Visuotinė lietuvių enciklopedija ID": [
+      "albert-einstein"
+    ],
+    "Catalogue of the General State Archives ID": [
+      "einstein-albert"
+    ],
+    "Portrait Archive ID": [
+      "239143"
+    ],
+    "Biblioteca di Santa Sabina ID": [
+      "4619"
+    ],
+    "RILM ID": [
+      "107626"
+    ],
+    "Biographical Encyclopedia of Astronomers ID": [
+      "404"
+    ],
+    "Lex ID": [
+      "Albert_Einstein"
+    ],
+    "BDRC Resource ID": [
+      "P1KG24319"
+    ],
+    "RSL ID (person)": [
+      "000021094"
+    ],
+    "BNB person ID": [
+      "EinsteinAlbert1879-1955"
+    ],
+    "Online PWN Encyclopedia ID": [
+      "3896872"
+    ],
+    "startrek.com Database ID": [
+      "database_article/einstein"
+    ],
+    "SNK ID": [
+      "163490"
+    ],
+    "FactGrid item ID": [
+      "Q224273"
+    ],
+    "Kallías ID": [
+      "PE00004870"
+    ],
+    "CANTIC ID": [
+      "981058511756306706"
+    ],
+    "Tabakalera ID": [
+      "49324"
+    ],
+    "Lur Encyclopedic Dictionary ID": [
+      "01682/eu_e_0736/e0736"
+    ],
+    "Hrvatska enciklopedija ID": [
+      "17257"
+    ],
+    "Gujarati Vishwakosh entry": [
+      "આઇન્સ્ટાઇન-આલ્બર્ટ"
+    ],
+    "Google Arts & Culture entity ID": [
+      "m0jcx"
+    ],
+    "Japan Search name ID": [
+      "アルベルト・アインシュタイン"
+    ],
+    "Pontifical University of Salamanca ID": [
+      "8399"
+    ],
+    "National Library of Ireland ID": [
+      "vtls000086385"
+    ],
+    "Dodis ID": [
+      "P20204"
+    ],
+    "Bibliography of the History of Slovakia ID": [
+      "7901"
+    ],
+    "IxTheo authority ID": [
+      "142045950"
+    ],
+    "Personality Database profile ID": [
+      "395"
+    ],
+    "Encyclopedia of China (Third Edition) ID": [
+      "123649",
+      "520858",
+      "633756"
+    ],
+    "Bodleian Archives & Manuscripts person ID": [
+      "6437"
+    ],
+    "KANTO ID": [
+      "000215897"
+    ],
+    "Leopoldina member ID (new)": [
+      "albert-einstein"
+    ],
+    "NLB authority ID (Belarus)": [
+      "NLB-ar101917"
+    ],
+    "Springer Nature person ID": [
+      "013217540103.39"
+    ],
+    "Prophy author ID": [
+      "882211"
+    ],
+    "Semantic Scholar author ID": [
+      "50702974"
+    ],
+    "Krugosvet article": [
+      "nauka_i_tehnika/fizika/ENSHTEN_ALBERT.html"
+    ],
+    "Golden ID": [
+      "Albert_Einstein-N6Y"
+    ],
+    "Dizionario biografico online degli anarchici italiani ID": [
+      "401",
+      "6443"
+    ],
+    "Academy of Athens authority ID": [
+      "156358"
+    ],
+    "Rai Teche person ID": [
+      "albert-einstein"
+    ],
+    "MangaSeek person ID": [
+      "12767"
+    ],
+    "Municipal Library of Trikala ID": [
+      "81943"
+    ],
+    "Famous Birthdays ID": [
+      "people/albert-einstein"
+    ],
+    "KBR person ID": [
+      "14115549"
+    ],
+    "DFK Paris person ID": [
+      "0008824347"
+    ],
+    "Film.ru person ID": [
+      "albert-einstein"
+    ],
+    "Rodovid ID": [
+      "303260"
+    ],
+    "academic thesis": [
+      "A New Determination of Molecular Dimensions"
+    ],
+    "CiNii Research ID": [
+      "1140563741718602752"
+    ],
+    "BookBrainz author ID": [
+      "43021f4f-4fda-4b32-bbf0-f2601181e32d"
+    ],
+    "University of Barcelona authority ID": [
+      "981058511756306706"
+    ],
+    "Ivi person ID": [
+      "albert-ejnshtejn"
+    ],
+    "Baidu Tieba name": [
+      "爱因斯坦"
+    ],
+    "Great Russian Encyclopedia portal ID": [
+      "einshtein-al-bert-3ec899"
+    ],
+    "Jewish Virtual Library ID": [
+      "albert-einstein-table-of-contents"
+    ],
+    "DPLA subject term": [
+      "Einstein, Albert, 1879-1955"
+    ],
+    "WorldCat Entities ID": [
+      "E39PBJkhFRgHDtmhvmC6JdfXh3"
+    ],
+    "ISNI": [
+      "000000012281955X"
+    ],
+    "BBC Things ID": [
+      "4cca21c2-6416-4207-922c-b32de7400474"
+    ],
+    "country of citizenship": [
+      "Kingdom of Württemberg",
+      "statelessness",
+      "Switzerland",
+      "Cisleithania",
+      "Weimar Republic",
+      "Germany",
+      "United States"
+    ],
+    "The Literary Encyclopedia person ID": [
+      "1404"
+    ],
+    "Central Library of Volos authority ID": [
+      "10590"
+    ],
+    "FranceArchives agent ID": [
+      "166026621"
+    ],
+    "Radio France person ID": [
+      "albert-einstein"
+    ],
+    "Open Library subject ID": [
+      "person:albert_einstein_(1879-1955)"
+    ],
+    "Goodreads character ID": [
+      "1024300"
+    ],
+    "Süddeutsche Zeitung topic ID": [
+      "Albert_Einstein"
+    ],
+    "Der Spiegel topic ID": [
+      "albert_einstein"
+    ],
+    "copyright status as a creator": [
+      "copyrights on works have expired"
+    ],
+    "DC Books author ID": [
+      "albert-einstein"
+    ],
+    "WikiTree person ID": [
+      "Einstein-1"
+    ],
+    "Kinobox person ID": [
+      "855374"
+    ],
+    "medical condition": [
+      "dyslexia"
+    ],
+    "Larousse ID": [
+      "personnage/Albert_Einstein/117783",
+      "images/Albert_Einstein/1005145",
+      "images/Albert_Einstein/1314172",
+      "sons/Albert_Einstein_février_1950/1102228"
+    ],
+    "WikiKids ID": [
+      "Albert_Einstein"
+    ],
+    "Internet Sacred Text Archive ID": [
+      "aor/einstein/index"
+    ],
+    "maintained by WikiProject": [
+      "WikiProject Mathematics"
+    ],
+    "Gran Enciclopèdia Catalana ID": [
+      "albert-einstein"
+    ],
+    "PlanetMath ID": [
+      "AlbertEinstein"
+    ],
+    "Listal ID": [
+      "albert-einstein"
+    ],
+    "different from": [
+      "Albert Einstein",
+      "Q124500735"
+    ],
+    "Parsifal cluster ID": [
+      "264639"
+    ],
+    "PMB – Personen der Moderne Basis person ID": [
+      "11237"
+    ],
+    "gravsted.dk ID": [
+      "alberteinstein"
+    ],
+    "FilmAffinity person ID": [
+      "650988260"
+    ],
+    "ORCID iD": [
+      "0000-0001-9183-9538"
+    ],
+    "Persée author ID": [
+      "1638902"
+    ],
+    "doctoral student": [
+      "Leó Szilárd"
+    ],
+    "Oxford Reference overview ID": [
+      "20110803095744712"
+    ],
+    "museum-digital person ID": [
+      "14634"
+    ],
+    "spouse": [
+      "Mileva Marić",
+      "Elsa Einstein"
+    ],
+    "significant event": [
+      "Nobel Prize winner"
+    ],
+    "Kunstenpunt Knowledge Graph ID": [
+      "Q95055"
+    ],
+    "Jewish Museum Berlin person ID": [
+      "jmb-pers-118058"
+    ],
+    "Vikidia article ID": [
+      "en:Albert_Einstein",
+      "it:Albert_Einstein",
+      "es:Albert_Einstein",
+      "eu:Albert_Einstein",
+      "ca:Albert_Einstein",
+      "fr:Albert_Einstein"
+    ],
+    "Douban personage ID": [
+      "27238306"
+    ],
+    "Google Play author ID": [
+      "0jcx"
+    ],
+    "UCA authority ID": [
+      "14611"
+    ],
+    "Leidse Hoogleraren ID": [
+      "1215"
+    ],
+    "Lexikon der Mathematik entry ID": [
+      "2607"
+    ],
+    "‎Münzkabinett ID": [
+      "person/2493"
+    ],
+    "Kalliope-Verbund (GND) ID": [
+      "118529579"
+    ],
+    "DDB person (GND) ID": [
+      "118529579"
+    ],
+    "Biographical Memoirs of Fellows of the Royal Society ID": [
+      "1955.0005"
+    ],
+    "picture of this person doing their job": [
+      "Albert Einstein writing on a blackboard in Pasadena (1931).jpg"
+    ],
+    "Koha Kütüphane ID": [
+      "19857"
+    ],
+    "Bibliothèque du Séminaire de Tournai author ID": [
+      "5698"
+    ],
+    "RedBA Granada authority ID": [
+      "87761"
+    ],
+    "FID performing arts ID": [
+      "agent/gnd_118529579"
+    ],
+    "CIRDOC author ID": [
+      "34419"
+    ],
+    "PUG authority ID": [
+      "144964"
+    ],
+    "JudaicaLink person (GND) ID": [
+      "118529579"
+    ],
+    "Databazeknih.cz author ID": [
+      "8278"
+    ],
+    "Modern History Database person ID": [
+      "esjiljveqvqreqe"
+    ],
+    "JRC Names ID": [
+      "92811"
+    ]
+  }
+}
